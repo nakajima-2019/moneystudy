@@ -1,83 +1,159 @@
 body {
-  background: linear-gradient(-135deg, #0fc956, #afb922);
+  background: linear-gradient(-100deg, #e3ec5a,#0fc956);
+}
+
+h1 {
+padding-left: 45px;
+font-size: 50px;
 }
 
 p {
+padding-left: 45px;
+font-size: 30px;
 }
 
 
-#sav1 {
+.box {
 
   font-size: 24px;
   padding: 10px 40px;
   border: 3px solid;
-  border-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
   border-image-slice: 1;
+  width: 700px;
+  margin-bottom: 10px;
   }
 
 #save1 {
   cursor: pointer;
-  margin-bottom: 10px;
 }
 
 .save1 {
 display: none;
 margin-bottom: 20px;
+}
 
+#save2 {
+  cursor: pointer;
 }
 
 .save2 {
   display: none;
+  margin-bottom: 20px;
   }
+
+#save3 {
+  cursor: pointer;
+}
 
 .save3 {
   display: none;
+  margin-bottom: 20px;
   }
+
+#earn1 {
+  cursor: pointer;
+}
 
 .earn1 {
   display: none;
+  margin-bottom: 20px;
+  }
+
+  #earn2 {
+    cursor: pointer;
   }
 
 .earn2 {
   display: none;
+  margin-bottom: 20px;
+  }
+
+  #earn3 {
+    cursor: pointer;
   }
 
 .earn3 {
   display: none;
+  margin-bottom: 20px;
+  }
+
+  #increase1 {
+    cursor: pointer;
   }
 
 .increase1 {
   display: none;
+  margin-bottom: 20px;
+  }
+
+  #increase2 {
+    cursor: pointer;
   }
 
 .increase2 {
   display: none;
+  margin-bottom: 20px;
+  }
+
+  #increase3 {
+    cursor: pointer;
   }
 
 .increase3 {
   display: none;
+  margin-bottom: 20px;
+  }
+
+  #protect1 {
+    cursor: pointer;
   }
 
 .protect1 {
   display: none;
+  margin-bottom: 20px;
+  }
+
+  #protect2 {
+    cursor: pointer;
   }
 
 .protect2 {
   display: none;
+  margin-bottom: 20px;
+  }
+
+  #protect3 {
+    cursor: pointer;
   }
 
 .protect3 {
   display: none;
+  margin-bottom: 20px;
+  }
+
+  #use1 {
+    cursor: pointer;
   }
 
 .use1 {
   display: none;
+  margin-bottom: 20px;
+}
+
+#use2 {
+  cursor: pointer;
 }
 
 .use2 {
   display: none;
+  margin-bottom: 20px;
+}
+
+#use3 {
+  cursor: pointer;
 }
 
 .use3 {
   display: none;
+  margin-bottom: 20px;
 }
