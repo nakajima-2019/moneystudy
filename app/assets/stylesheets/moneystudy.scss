@@ -1,3 +1,83 @@
-// Place all the styles related to the moneystudy controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  background: linear-gradient(-135deg, #0fc956, #afb922);
+}
+
+p {
+}
+
+
+#sav1 {
+
+  font-size: 24px;
+  padding: 10px 40px;
+  border: 3px solid;
+  border-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+  border-image-slice: 1;
+  }
+
+#save1 {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.save1 {
+display: none;
+margin-bottom: 20px;
+
+}
+
+.save2 {
+  display: none;
+  }
+
+.save3 {
+  display: none;
+  }
+
+.earn1 {
+  display: none;
+  }
+
+.earn2 {
+  display: none;
+  }
+
+.earn3 {
+  display: none;
+  }
+
+.increase1 {
+  display: none;
+  }
+
+.increase2 {
+  display: none;
+  }
+
+.increase3 {
+  display: none;
+  }
+
+.protect1 {
+  display: none;
+  }
+
+.protect2 {
+  display: none;
+  }
+
+.protect3 {
+  display: none;
+  }
+
+.use1 {
+  display: none;
+}
+
+.use2 {
+  display: none;
+}
+
+.use3 {
+  display: none;
+}
