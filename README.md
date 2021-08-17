@@ -20,7 +20,7 @@ https://moneystudy.herokuapp.com/
 トップページを見やすくするためにjqueryを使用して動画のリンク先を表示・非表示切り替えができるようにした
 
 # 開発環境
-HTML・CSS・Ruby・Ruby on Rails・Heroku
+HTML・CSS・jquery・Ruby・Ruby on Rails・Heroku
 
 
 
